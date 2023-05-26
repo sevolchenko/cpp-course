@@ -1,0 +1,6 @@
+aaa 2
+privet 2
+sergey 2
+bbb 1
+default 1
+poka 1

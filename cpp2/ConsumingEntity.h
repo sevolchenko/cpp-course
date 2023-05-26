@@ -10,7 +10,7 @@ public:
 		this->_consumes = consumes;
 	}
 protected:
-	int _consumes =0;
+	int _consumes = 0;
 	ConsumingEntity(int consumes) {
 		this->_consumes = consumes;
 	}

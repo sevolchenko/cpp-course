@@ -40,11 +40,6 @@ public:
 		this->_soldiers_consumes = soldiers_consumes;
 		this->_soldiers_eliminates = soldiers_eliminates;
 
-//		this->_pests = {};
-//		this->_larvas = {};
-//		this->_workers = {};
-//		this->_policemans = {};
-//		this->_soldiers = {};
 	};
 
 	~Anthill() {
